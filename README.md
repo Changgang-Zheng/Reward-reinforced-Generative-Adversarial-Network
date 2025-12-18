@@ -1,4 +1,4 @@
-# History-awareness-Self-adaptive-System-on-Airborne-Base-Station
+# RR-GAN
 
 
 This repository contains source code from an early-stage undergraduate research project ("Reward-Reinforced Generative Adversarial Networks for Multi-agent Systems") that explored reward modeling for multi-agent reinforcement learning in a custom airborne base-station environment.
