@@ -14,5 +14,5 @@ We emphasize that:
 - Visualization scripts include standard post-processing (e.g., smoothing) intended solely to aid qualitative interpretation of trends
 - The project represents an exploratory learning effort, highlighting the importance of rigorous baseline implementation and fair comparison in later-stage research
 
-This repository is preserved as an archival snapshot for transparency and historical reference. It is not actively maintained, and the included baseline implementations reflect the practices at the time of the study rather than current benchmark standards.
+This repository is preserved as an archival snapshot for transparency and historical reference. It is not actively maintained, and the included implementations reflect the practices at the time of the study rather than current standards.
 
